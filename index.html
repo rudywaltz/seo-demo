@@ -1,11 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Test</title>
-</head>
-<body>
-<h1>Lorem pisum</h1>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, voluptatem architecto possimus odit perspiciatis asperiores modi iusto suscipit exercitationem quod. Quae, est, delectus quidem tempora sunt voluptatum at rerum possimus.</p>
-</body>
-</html>
+---
+layout: default
+title: Your New Jekyll Site
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
