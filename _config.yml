@@ -1,4 +1,5 @@
 name: Seo-demo
+baseurl: /seo-demo
 markdown: redcarpet
 safe: true
 lsi: false
