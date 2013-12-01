@@ -2,5 +2,5 @@ name: Seo-demo
 markdown: redcarpet
 safe: true
 lsi: false
-relative_permalinks: true
+relative_permalinks: false
 repository: https://github.com/rudywaltz/seo-demo
