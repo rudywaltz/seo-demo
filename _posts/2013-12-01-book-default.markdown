@@ -7,8 +7,8 @@ categories: default
 <div itemscope itemtype="http://schema.org/WebPage">
 
 <div itemprop="breadcrumb">
-  <a href="category/books.html">Books</a> >
-  <a href="category/books-literature.html">Literature & Fiction</a> >
+  <a href="category/books.html"  itemprop="url">Books</a> >
+  <a href="category/books-literature.html"  itemprop="url">Literature & Fiction</a> >
   <a href="category/books-classics">Classics</a>
 </div>
 
