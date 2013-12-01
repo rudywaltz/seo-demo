@@ -2,3 +2,4 @@ name: Seo-demo
 markdown: redcarpet
 safe: true
 lsi: false
+repository: https://github.com/rudywaltz/seo-demo
