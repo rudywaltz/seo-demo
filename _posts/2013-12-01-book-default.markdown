@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book default!"
+title:  "Book width schema.org"
 date:   2013-12-02 14:09:25
 categories: default
 ---
@@ -14,7 +14,9 @@ categories: default
 
 <div itemscope itemtype="http://schema.org/Book">
 
-<img itemprop="image" src="catcher-in-the-rye-book-cover.jpg" />
+<img itemprop="image" src="http://lorempixel.com/100/200" />
+  <meta itemprop="thumbnailUrl" content="http://lorempixel.com/50/100" />
+
 <span itemprop="name">The Catcher in the Rye</span> -
  <link itemprop="bookFormat" href="http://schema.org/Paperback">Mass Market Paperback
 by <a itemprop="author" href="/author/jd_salinger.html">J.D. Salinger</a>
