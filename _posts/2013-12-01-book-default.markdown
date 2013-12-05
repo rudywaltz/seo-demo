@@ -27,8 +27,8 @@ by <a itemprop="author" href="/author/jd_salinger.html">J.D. Salinger</a>
 </div>
 
 <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-  Price: <span itemprop="price">$6.99</span>
-  <meta itemprop="priceCurrency" content="USD" />
+  Price: <span itemprop="price">4 500 Ft</span>
+  <meta itemprop="priceCurrency" content="HUF" />
   <link itemprop="availability" href="http://schema.org/InStock">In Stock
 </div>
 
