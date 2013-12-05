@@ -16,7 +16,7 @@ categories: default
 	</div>
 
 	<div class="main-content" >
-		<img src="{{ site.baseurl }}/images/kokusz_tekercs.jpg" alt="Kókusztekercs">
+		<img itemprop="image"  src="{{ site.baseurl }}/images/kokusz_tekercs.jpg" alt="Kókusztekercs">
 
 		<div class="ingredients">
 			<h2>Barna tészta</h2>
