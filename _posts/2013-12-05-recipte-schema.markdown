@@ -9,7 +9,7 @@ categories: default
 	<h1 itemprop="name">Kekszes kókusztekercs recept</h1>
 	<h3><span itemprop="author">Katharosz</span> receptje</h3>
 
-	<div class="breadcrumbs"itemscope itemtype="http://schema.org/Recipe">
+	<div class="breadcrumbs"itemscope itemtype="http://schema.org/breadcrumb">
 		<a href="/receptek/kategoria"  itemprop="url">receptek</a> >
 		<a href="/receptek/kategoria/edes-suti"  itemprop="url">Édes süti</a> >
 		<a href="/receptek/kategoria/edes-suti/keksztekercs"  itemprop="url">keksztekercs</a>
