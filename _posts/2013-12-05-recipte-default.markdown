@@ -58,5 +58,13 @@ categories: default
 			előkészítés: fél óra
 			elkészítés: 1 óra 15 perc
 		</div>
+		<div class="rating">
+		<p>ÖSszesen 20an értékelték az átlag 3/5</p>
+				<ul>
+					<li>Értékelés 4/5</li>
+					<li>Hozzászólás: szerintem nem írta le tökéletesen a recept elkészítését, de mégis finom lett.</li>
+					<li>Szerző: Fakezű Jakab</li>
+				</ul>
+		</div>
 	</div>
 </div>

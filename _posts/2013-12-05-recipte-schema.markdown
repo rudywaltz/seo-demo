@@ -9,7 +9,7 @@ categories: default
 	<h1 itemprop="name">Kekszes kókusztekercs recept</h1>
 	<h3><span itemprop="author">Katharosz</span> receptje</h3>
 
-	<div class="breadcrumbs"itemscope itemtype="http://schema.org/breadcrumb">
+	<div class="breadcrumbs" itemprop="breadcrumb" itemscope itemtype="http://schema.org/breadcrumb">
 		<a href="/receptek/kategoria"  itemprop="url">receptek</a> >
 		<a href="/receptek/kategoria/edes-suti"  itemprop="url">Édes süti</a> >
 		<a href="/receptek/kategoria/edes-suti/keksztekercs"  itemprop="url">keksztekercs</a>
@@ -61,6 +61,14 @@ categories: default
 				előkészítés: <meta itemprop="prepTime" content="PT30M"> fél óra
 				elkészítés: <meta itemprop="cookTime" content="PT1H15M"> 1 óra 15 perc
 			</div>
+		</div>
+		<div class="rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+		<p>ÖSszesen <meta itemprop="reviewCount" content="20"> 20an <meta  itemprop="ratingValue" content="3"> értékelték az átlag 3/5</p>
+				<ul>
+					<li>Értékelés 4/5</li>
+					<li>Hozzászólás: szerintem nem írta le tökéletesen a recept elkészítését, de mégis finom lett.</li>
+					<li>Szerző: Fakezű Jakab</li>
+				</ul>
 		</div>
 	</div>
 </div>
