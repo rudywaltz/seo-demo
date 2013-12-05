@@ -36,7 +36,7 @@ Product details
 <span itemprop="numberOfPages">224</span> pages
 Publisher: <span itemprop="publisher">Little, Brown, and Company</span> -
  <meta itemprop="datePublished" content="1991-05-01">May 1, 1991
-Language: <span itemprop="inLanguage">English</span>
+Language: <span itemprop="inLanguage">Magyar</span>
 ISBN-10: <span itemprop="isbn">0316769487</span>
 
 Reviews:
