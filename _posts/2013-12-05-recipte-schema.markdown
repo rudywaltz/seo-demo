@@ -17,6 +17,7 @@ categories: default
 
 	<div class="main-content" >
 		<img itemprop="image"  src="{{ site.baseurl }}/images/kokusz_tekercs.jpg" alt="Kókusztekercs">
+		<meta itemprop="thumbnailUrl" content="{{ site.baseurl }}/images/kokusz_tekercs_thumb.jpg">
 
 		<div class="ingredients">
 			<h2>Barna tészta</h2>
