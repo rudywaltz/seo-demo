@@ -6,7 +6,7 @@ categories: default
 ---
 
 <div  itemscope itemtype="http://schema.org/Recipe">
-	<h1 itemprop="name">Kekszes kókusztekercs recept</h1>
+	<h1 itemprop="name">Kekszes kókusztekercs recept <span itemprop="recipeYield">4 személyre</span></h1>
 	<h3><span itemprop="author">Katharosz</span> receptje</h3>
 
 	<div class="breadcrumbs" itemprop="breadcrumb" itemscope itemtype="http://schema.org/breadcrumb">
