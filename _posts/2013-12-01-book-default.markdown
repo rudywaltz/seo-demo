@@ -1,62 +1,42 @@
 ---
 layout: post
-title:  "Book width schema.org"
+title:  "default Book"
 date:   2013-12-02 14:09:25
 categories: default
 ---
-<div itemscope itemtype="http://schema.org/WebPage">
 
-<div itemprop="breadcrumb">
-  <a href="category/books.html"  itemprop="url">Books</a> >
-  <a href="category/books-literature.html"  itemprop="url">Literature & Fiction</a> >
-  <a href="category/books-classics">Classics</a>
-</div>
+<h1>2015</h1>
+<h2>A káosz éve és a magyar elit háborúja</h2>
+<p>Frei Tamás</p>
+<img src="{{ site.baseurl }}/images/frei_tamas.jpg" alt="frei Tamás">
+<div class="info">
+<div class="rank"> 3/5 140 értékelés</div>
+  <div class="old-price">3.999 Ft helyett</div>
+  <div class="price">3.799 Ft <span>(Megtakarítás: 5%)</span></div>
+  <a href="#">kosába</a> <span>Szállítás 1-3 munkanap</span>
+ <ul>
+   <li>
+ Kiadó: Ulpius-Ház Könyvkiadó KFT. 
+   </li>
+   <li>Oldalak száma: 588</li>
+   <li>Borító: PUHATÁBLÁS</li>
+   <li>Súly: 470 gr</li>
+   <li>ISBN: 9789632545905</li>
+   <li>Nyelv: MAGYAR</li>
+   <li>Kiadás éve: 2013 </li>
+   <li>Árukód: 2226373 / 1080787/li>
+ </ul>
 
-<div itemscope itemtype="http://schema.org/Book">
 
-<img itemprop="image" src="http://lorempixel.com/100/200" />
-  <meta itemprop="thumbnailUrl" content="http://lorempixel.com/50/100" />
 
-<span itemprop="name">The Catcher in the Rye</span> -
- <link itemprop="bookFormat" href="http://schema.org/Paperback">Mass Market Paperback
-by <a itemprop="author" href="/author/jd_salinger.html">J.D. Salinger</a>
 
-<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-  <span itemprop="ratingValue">4</span> stars -
-  <span itemprop="reviewCount">3077</span> reviews
-</div>
 
-<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-  Price: <span itemprop="price">4 500 Ft</span>
-  <meta itemprop="priceCurrency" content="HUF" />
-  <link itemprop="availability" href="http://schema.org/InStock">In Stock
-</div>
 
-Product details
-<span itemprop="numberOfPages">224</span> pages
-Publisher: <span itemprop="publisher">Little, Brown, and Company</span> -
- <meta itemprop="datePublished" content="1991-05-01">May 1, 1991
-Language: <span itemprop="inLanguage">Magyar</span>
-ISBN-10: <span itemprop="isbn">0316769487</span>
 
-Reviews:
-
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
-  <span itemprop="reviewRating">5</span> stars -
-  <b>"<span itemprop="name">A masterpiece of literature</span>" </b>
-  by <span itemprop="author">John Doe</span>,
-  Written on <meta itemprop="datePublished" content="2006-05-04">May 4, 2006
-  <span itemprop="reviewBody">I really enjoyed this book. It captures the essential
-  challenge people face as they try make sense of their lives and grow to adulthood.</span>
-</div>
-
-<div itemprop="review" itemscope itemtype="http://schema.org/Review">
-  <span itemprop="reviewRating">4</span> stars -
-  <b>"<span itemprop="name">A good read.</span>" </b>
-  by <span itemprop="author">Bob Smith</span>,
-  Written on <meta itemprop="datePublished" content="2006-06-15">June 15, 2006
-  <span itemprop="reviewBody">Catcher in the Rye is a fun book. It's a good book to read.</span>
-</div>
 
 </div>
+<div class="description">
+  <p>André története a következő parlamenti választások napjaiban indul ismét útjára, feszült, konfliktusokkal teli időszakban. A képzeletbeli Magyarország arra ébred, hogy a kisebbség került többségbe. De hogyan? Miként és miért esik egymásnak a magyar politikai és gazdasági elit egy része, és mi köze mindehhez Andrénak, Adriennek és egy kaliforniában élő sikeres magyar feltalálónőnek? Mi történik a sarokba szorított miniszterelnökkel, a magyar poli-garchákkal, és persze Andréval, meg az ő fekete szemű hároméves kislányával, Fruzsikával. Bátor és izgalmas utazás a következő évek Magyarországának kulisszái mögé!</p>
 </div>
+
+
