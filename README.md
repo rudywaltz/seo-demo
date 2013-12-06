@@ -1,6 +1,7 @@
 seo-demo
 ========
 
+<a href="http://rudywaltz.github.io/seo-demo/">demo page</a>
 <a href="https://support.google.com/webmasters/answer/99170">Main</a>
 
 <a href="https://support.google.com/webmasters/answer/1211158">Schema FAQ</a>
