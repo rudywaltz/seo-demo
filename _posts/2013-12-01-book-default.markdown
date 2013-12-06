@@ -18,10 +18,13 @@ categories: book
 <img src="{{ site.baseurl }}/images/frei_tamas.jpg" alt="frei Tamás">
 <div class="info">
 <div class="rank"> 3/5 140 értékelés</div>
-<h3>ár</h3>
-  <div class="old-price">3.999 Ft helyett</div>
-  <div class="price">3.799 Ft <span>(Megtakarítás: 5%)</span></div>
-  <a href="#">kosába</a> <span>Szállítás 1-3 munkanap</span>
+ <div>
+  <h3>ár</h3>
+    <div class="old-price">3.999 Ft helyett</div>
+    Kedvezményes ár: 3.799 Ft (megtakarítás: 5%)
+      <a href="#">kosába</a>
+      Szállítás 1-3 munkanap
+    </div>
   <h3>Info</h3>
  <ul>
    <li>

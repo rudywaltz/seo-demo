@@ -7,19 +7,19 @@ categories: book
 
 <nav  itemscope itemtype="http://schema.org/WebPage" >
   <div itemprop="breadcrumb">
-    <a href="{{ site.baseurl }}">Főoldal</a>
-    <a href="{{ site.baseurl }}/konyv">Könyv</a>
-    <a href="{{ site.baseurl }}/konyv/irodalom/">Irodalom</a>
-    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom">Szórakoztató irodalom</a>
-    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom/krimi">Krimi, bűnügyi, thriller</a>
+    <a href="{{ site.baseurl }}" itemprop="url">Főoldal</a>
+    <a href="{{ site.baseurl }}/konyv" itemprop="url">Könyv</a>
+    <a href="{{ site.baseurl }}/konyv/irodalom/" itemprop="url">Irodalom</a>
+    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom" itemprop="url">Szórakoztató irodalom</a>
+    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom/krimi" itemprop="url">Krimi, bűnügyi, thriller</a>
   </div>
 </nav>
-
 <div itemscope itemtype="http://schema.org/Book" >
   <h1 itemprop="name">2015</h1>
   <h2 itemprop="alternateName">A káosz éve és a magyar elit háborúja</h2>
   <p itemprop="author">Frei Tamás</p>
   <img itemprop="image" src="{{ site.baseurl }}/images/frei_tamas.jpg" alt="frei Tamás">
+  <meta itemprop="thumbnailUrl" content="{{ site.baseurl }}/images/frei_tamas_thumb.jpg">
   <div class="info">
     <div class="rank" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
       <span itemprop="ratingValue">3</span>/5 <span itemprop="reviewCount">140</span> értékelés
@@ -31,8 +31,7 @@ categories: book
       <meta itemprop="priceCurrency" content="HUF" />
       <a href="#">kosába</a>
       <link itemprop="availability" href="http://schema.org/InStock">Szállítás 1-3 munkanap
-      </div>
-      
+     </div>
     <h3>Info</h3>
     <ul>
       <li>
@@ -48,7 +47,7 @@ categories: book
     </ul>
   </div>
   <div class="description">
-    <p>André története a következő parlamenti választások napjaiban indul ismét útjára, feszült, konfliktusokkal teli időszakban. A képzeletbeli Magyarország arra ébred, hogy a kisebbség került többségbe. De hogyan? Miként és miért esik egymásnak a magyar politikai és gazdasági elit egy része, és mi köze mindehhez Andrénak, Adriennek és egy kaliforniában élő sikeres magyar feltalálónőnek? Mi történik a sarokba szorított miniszterelnökkel, a magyar poli-garchákkal, és persze Andréval, meg az ő fekete szemű hároméves kislányával, Fruzsikával. Bátor és izgalmas utazás a következő évek Magyarországának kulisszái mögé!</p>
+    <p itemprop="description">André története a következő parlamenti választások napjaiban indul ismét útjára, feszült, konfliktusokkal teli időszakban. A képzeletbeli Magyarország arra ébred, hogy a kisebbség került többségbe. De hogyan? Miként és miért esik egymásnak a magyar politikai és gazdasági elit egy része, és mi köze mindehhez Andrénak, Adriennek és egy kaliforniában élő sikeres magyar feltalálónőnek? Mi történik a sarokba szorított miniszterelnökkel, a magyar poli-garchákkal, és persze Andréval, meg az ő fekete szemű hároméves kislányával, Fruzsikával. Bátor és izgalmas utazás a következő évek Magyarországának kulisszái mögé!</p>
   </div>
   <div>
   <h3>Vélemények</h3>
