@@ -2,7 +2,7 @@
 layout: post
 title:  "default Book"
 date:   2013-12-01 14:09:25
-categories: default
+categories: book
 ---
 
 <nav>
