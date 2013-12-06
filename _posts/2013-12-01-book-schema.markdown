@@ -3,17 +3,33 @@ layout: post
 title:  "Book with schema.org"
 date:   2013-12-01 16:09:25
 categories: book
----
+--- 
+  
 
-<nav  itemscope itemtype="http://schema.org/WebPage" >
-  <div itemprop="breadcrumb">
-    <a href="{{ site.baseurl }}" itemprop="url">Főoldal</a>
-    <a href="{{ site.baseurl }}/konyv" itemprop="url">Könyv</a>
-    <a href="{{ site.baseurl }}/konyv/irodalom/" itemprop="url">Irodalom</a>
-    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom" itemprop="url">Szórakoztató irodalom</a>
-    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom/krimi" itemprop="url">Krimi, bűnügyi, thriller</a>
+
+<nav>
+  <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}" itemprop="url"><span itemprop="title">Főoldal</span></a>
   </div>
+    <div class="breadcrumb"> > </div>
+  <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}/konyv" itemprop="url"><span itemprop="title">Könyv</span></a>
+  </div>
+    <div class="breadcrumb"> > </div>
+  <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}/konyv/irodalom" itemprop="url"><span itemprop="title">Irodalom</span></a>
+  </div>
+    <div class="breadcrumb"> > </div>
+  <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom" itemprop="url"><span itemprop="title">Szórakoztató irodalom</span></a>
+  </div>
+    <div class="breadcrumb"> > </div>
+  <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom/krimi" itemprop="url"><span itemprop="title">Krimi</span></a>
+  </div>
+    <div class="breadcrumb"> > </div>
 </nav>
+
 <div itemscope itemtype="http://schema.org/Book" >
   <h1 itemprop="name">2015</h1>
   <h2 itemprop="alternateName">A káosz éve és a magyar elit háborúja</h2>
