@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recipte original whith schema.org"
+title:  "Recipe original whith schema.org"
 date:   2013-12-05 22:11:25
 categories: default
 ---

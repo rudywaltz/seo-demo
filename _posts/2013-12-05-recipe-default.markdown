@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recipte original"
+title:  "Recipe original"
 date:   2013-12-05 22:09:25
 categories: default
 ---
@@ -38,7 +38,7 @@ categories: default
 	</div>
 	<div class="Content">
 		<p>Ez is a "RETRO" édességek közé tartozik, de nem szabad elfelejteni, mert nagyon finom!</p>
-		<div class="recipte">
+		<div class="recipe">
 			<h3>Barna tészta</h3>
 		<ol>
 			<li>A kekszet diódarálóval ledaráljuk.</li>
