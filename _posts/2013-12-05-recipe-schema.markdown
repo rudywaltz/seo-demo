@@ -8,13 +8,6 @@ categories: default
 <div  itemscope itemtype="http://schema.org/Recipe">
 	<h1 itemprop="name">Kekszes kókusztekercs recept <span itemprop="recipeYield">4 személyre</span></h1>
 	<h3><span itemprop="author">Katharosz</span> receptje</h3>
-
-	<div class="breadcrumbs" itemprop="breadcrumb" itemscope itemtype="http://schema.org/breadcrumb">
-		<a href="/receptek/kategoria"  itemprop="url">receptek</a> >
-		<a href="/receptek/kategoria/edes-suti"  itemprop="url">Édes süti</a> >
-		<a href="/receptek/kategoria/edes-suti/keksztekercs"  itemprop="url">keksztekercs</a>
-	</div>
-	<nav>
   <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
     <a href="{{ site.baseurl }}" itemprop="url"><span itemprop="title">Főoldal</span></a>
   </span> >
