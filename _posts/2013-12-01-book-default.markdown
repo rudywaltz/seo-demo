@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "default Book"
-date:   2013-12-02 14:09:25
+date:   2013-12-01 14:09:25
 categories: default
 ---
 
@@ -18,9 +18,11 @@ categories: default
 <img src="{{ site.baseurl }}/images/frei_tamas.jpg" alt="frei Tamás">
 <div class="info">
 <div class="rank"> 3/5 140 értékelés</div>
+<h3>ár</h3>
   <div class="old-price">3.999 Ft helyett</div>
   <div class="price">3.799 Ft <span>(Megtakarítás: 5%)</span></div>
   <a href="#">kosába</a> <span>Szállítás 1-3 munkanap</span>
+  <h3>Info</h3>
  <ul>
    <li>
  Kiadó: Ulpius-Ház Könyvkiadó KFT. 
@@ -40,6 +42,7 @@ categories: default
 </div>
 
 <div>
+<h3>Vélemények</h3>
   <ul>
     <li>Gábor Dira · Károly Róbert Főiskola</li>
     <li>Micsodaaa? Csak így simán eltolták? Éppen azt akartam megnézni, hogy mikor mehetek érte, mert ugye már előrendeltem... :(</li>
