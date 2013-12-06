@@ -14,6 +14,24 @@ categories: default
 		<a href="/receptek/kategoria/edes-suti"  itemprop="url">Édes süti</a> >
 		<a href="/receptek/kategoria/edes-suti/keksztekercs"  itemprop="url">keksztekercs</a>
 	</div>
+	<nav>
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}" itemprop="url"><span itemprop="title">Főoldal</span></a>
+  </span> >
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="/receptek/kategoria" itemprop="url"><span itemprop="title">Receptek</span></a>
+  </span>
+    >
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}/receptek/kategoria/edes-suti" itemprop="url"><span itemprop="title">Édes süti</span></a>
+  </span>
+   > 
+  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+    <a href="{{ site.baseurl }}/receptek/kategoria/edes-suti/keksztekercs" itemprop="url"><span itemprop="title">Keksztekercs</span></a>
+  </span>
+     >
+</nav>
+
 
 	<div class="main-content" >
 		<img itemprop="image"  src="{{ site.baseurl }}/images/kokusz_tekercs.jpg" alt="Kókusztekercs">
