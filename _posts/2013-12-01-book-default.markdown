@@ -5,6 +5,13 @@ date:   2013-12-02 14:09:25
 categories: default
 ---
 
+<nav>
+<a href="{{ site.baseurl }}">Főoldal</a>
+<a href="{{ site.baseurl }}/konyv">Könyv</a>
+<a href="{{ site.baseurl }}/konyv/irodalom/">Irodalom</a>
+<a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom">Szórakoztató irodalom</a>
+<a href="{{ site.baseurl }}/konyv/irodalom/szorakoztato_irodalom/krimi">Krimi, bűnügyi, thriller</a>
+</nav>
 <h1>2015</h1>
 <h2>A káosz éve és a magyar elit háborúja</h2>
 <p>Frei Tamás</p>
@@ -27,16 +34,22 @@ categories: default
    <li>Árukód: 2226373 / 1080787/li>
  </ul>
 
-
-
-
-
-
-
-
 </div>
 <div class="description">
   <p>André története a következő parlamenti választások napjaiban indul ismét útjára, feszült, konfliktusokkal teli időszakban. A képzeletbeli Magyarország arra ébred, hogy a kisebbség került többségbe. De hogyan? Miként és miért esik egymásnak a magyar politikai és gazdasági elit egy része, és mi köze mindehhez Andrénak, Adriennek és egy kaliforniában élő sikeres magyar feltalálónőnek? Mi történik a sarokba szorított miniszterelnökkel, a magyar poli-garchákkal, és persze Andréval, meg az ő fekete szemű hároméves kislányával, Fruzsikával. Bátor és izgalmas utazás a következő évek Magyarországának kulisszái mögé!</p>
+</div>
+
+<div>
+  <ul>
+    <li>Gábor Dira · Károly Róbert Főiskola</li>
+    <li>Micsodaaa? Csak így simán eltolták? Éppen azt akartam megnézni, hogy mikor mehetek érte, mert ugye már előrendeltem... :(</li>
+    <li>2/5</li>
+  </ul>
+  <ul>
+    <li>gipsz Jakab</li>
+    <li>Kedvenc íróm!!4! Imádom a stylusát ;)</li>
+    <li>5/5</li>
+  </ul>
 </div>
 
 
